@@ -1,6 +1,6 @@
 {
     "name": "vue3-polkadot-vue-identicon",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "@polkadot/vue-identicon compatible with vue3",
     "main": "index.js",
     "dependencies": {
@@ -9,6 +9,10 @@
         "@polkadot/util": "^9.7.2",
         "@polkadot/util-crypto": "^9.7.2",
         "jdenticon": "3.1.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhanggoodzhi/vue3-polkadot-vue-identicon.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
